@@ -1,9 +1,9 @@
 {"0": {
     "doc": "Homework 1",
-    "title": "Homework 1 - Practice with matrix algebra",
-    "content": "Due 2021-08-31. Remember thinking like a mathematician involving providing justification for each conclusion or formula. In the language of Math 300, a proof. For this assignment, you can use the following fact about matrix addition and multiplication: distributivity. \\(A(B+C) = AB + AC\\) Remember that $AC \\neq CA$ in general for matrices. (A good mental exercise is to think about how you would, as a good mathematician, prove distributivity of matrix multiplication over addition.) . | (Do this individually) On the channel in Microsoft Teams, introduce yourself. Also, tell us why you are taking the course and what you hope to gain from it. | One of the most important matrices is the $m \\times m$ identity matrix. We denote it by $I_m$. It’s entries are \\(I_{i,j} = \\begin{cases} 0 &amp; \\text{ if } i \\neq j \\\\ 1 &amp; \\text{ if } i = j \\end{cases}\\) For example, the $3 \\times 3$ identity matrix is \\(\\begin{pmatrix} 1 &amp; 0 &amp; 0 \\\\ 0 &amp; 1 &amp; 0 \\\\ 0 &amp; 0 &amp; 1 \\end{pmatrix}\\) Let $A$ be any $m \\times n$ matrix and let $B$ be any $s \\times m$ matrix. What are . | $ I A $? | $ B I $? | . | For a scalar $c$ and two integers $1 \\leq l \\leq m$, we let $S(l,c)_m$ denote the the $m \\times m$ matrix whose entries are \\(\\left( S(l,c)_m \\right)_{i,j} = \\begin{cases} 0 &amp; \\text{ if } i \\neq j \\\\ 1 &amp; \\text{ if } i = j \\neq l \\\\ c &amp; \\text{ if } i = j = l \\end{cases}\\) For an $m \\times n$ matrix $A = (a_{ij})$, give formulas for the entries of the product $S(l,c) A$. (Hint: Try to do the case $m = 2$ and see if you can see a pattern. Test $m = 3$ if you need more data.) . | Recall the matrices $D(i,j)_m$. Show that, for any $m \\times n$ matrix $A$, the product $D(i,j)A$ is zero except for the i-th row which is equal to the $\\mathbf{R}_j^A$, the j-th row of $A$. | For the permutation matrices $P(i,j)_m$, verify that the identity \\(P(i,j) P(r,s) = P(r,s) P(i,j)\\) is true if \\(\\lbrace i,j \\rbrace \\cap \\lbrace r,s \\rbrace = \\empty\\) What happens in the case that just one of the indices are the same? Both? | . ",
-    "url": "https://411.s23.matthewrobertballard.com/homework/01/#homework-1---practice-with-matrix-algebra",
-    "relUrl": "/homework/01/#homework-1---practice-with-matrix-algebra"
+    "title": "Homework 1 - Terms and types",
+    "content": "Due 2023-01-23. Complete and submit homework at our GitHub classroom. ",
+    "url": "https://411.s23.matthewrobertballard.com/homework/01/#homework-1---terms-and-types",
+    "relUrl": "/homework/01/#homework-1---terms-and-types"
   },"1": {
     "doc": "Homework 1",
     "title": "Homework 1",
@@ -61,48 +61,48 @@
   },"10": {
     "doc": "Homework",
     "title": "Homework",
-    "content": ". | Homework 1. Due Date: August 31 | . ",
+    "content": ". | Homework 1. Due Date: January 23 | . ",
     "url": "https://411.s23.matthewrobertballard.com/homework/",
     "relUrl": "/homework/"
   },"11": {
-    "doc": "Intro to Proofs",
+    "doc": "Proofs and programs",
     "title": "HNRS:  Formalization and mathematics",
     "content": "Proofs and programs . ",
     "url": "https://411.s23.matthewrobertballard.com/#hnrs--formalization-and-mathematics",
     "relUrl": "/#hnrs--formalization-and-mathematics"
   },"12": {
-    "doc": "Intro to Proofs",
+    "doc": "Proofs and programs",
     "title": "Syllabus",
     "content": "The syllabus can be found at the syllabus tab. ",
     "url": "https://411.s23.matthewrobertballard.com/#syllabus",
     "relUrl": "/#syllabus"
   },"13": {
-    "doc": "Intro to Proofs",
+    "doc": "Proofs and programs",
     "title": "Calendar",
     "content": "At the calendar tab, you will find our topic schedule for each class along with the pre-reading, worksheets for that class, and due dates for assignments. ",
     "url": "https://411.s23.matthewrobertballard.com/#calendar",
     "relUrl": "/#calendar"
   },"14": {
-    "doc": "Intro to Proofs",
+    "doc": "Proofs and programs",
     "title": "Notes",
     "content": "Notes can be found in their GitHub repository. ",
     "url": "https://411.s23.matthewrobertballard.com/#notes",
     "relUrl": "/#notes"
   },"15": {
-    "doc": "Intro to Proofs",
+    "doc": "Proofs and programs",
     "title": "Homework",
     "content": "There are tabs for class homework. Homework is turned in weekly and in groups of 3-4. For more information, see the Syllabus. ",
     "url": "https://411.s23.matthewrobertballard.com/#homework",
     "relUrl": "/#homework"
   },"16": {
-    "doc": "Intro to Proofs",
+    "doc": "Proofs and programs",
     "title": "Me",
     "content": "If you are interested in a bit about who I am and what I do, check out the staff tab or visit my website. ",
     "url": "https://411.s23.matthewrobertballard.com/#me",
     "relUrl": "/#me"
   },"17": {
-    "doc": "Intro to Proofs",
-    "title": "Intro to Proofs",
+    "doc": "Proofs and programs",
+    "title": "Proofs and programs",
     "content": " ",
     "url": "https://411.s23.matthewrobertballard.com/",
     "relUrl": "/"
