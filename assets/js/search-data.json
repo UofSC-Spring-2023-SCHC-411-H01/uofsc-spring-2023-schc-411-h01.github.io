@@ -55,7 +55,7 @@
   },"9": {
     "doc": "Calendar",
     "title": "Terms, types, and type-checking",
-    "content": "Jan 12 Terms and types Sections 1.1-1.2 Jan 17 Type checking and type inhabitation Sections 1.3-1.4 Jan 19 Intro to inductive types Sections 2.1-2.2 Quiz 1 Jan 24 Theorems and proofs Sections 2.3-3.1 HW 1 due Jan 26 First tactics and some logic Sections 3.2-3.3 Quiz 2 Jan 31 Equality and more tactics Sections 3.4-3.5 HW 2 due ",
+    "content": "Jan 12 Terms and types Sections 1.1-1.2 Jan 17 Type checking and type inhabitation Sections 1.3-1.4 Jan 19 Intro to inductive types Sections 2.1-2.2 Quiz 1 Jan 24 Theorems and proofs Sections 2.3-3.1 HW 1 due Jan 26 First tactics and some logic Sections 3.2-3.3 Quiz 2 Jan 31 More propositional logic Sections 3.3 HW 2 due Feb 2 Quantifiers in Lean Sections 3.3 Quiz 3 ",
     "url": "https://411.s23.matthewrobertballard.com/calendar/#terms-types-and-type-checking",
     "relUrl": "/calendar/#terms-types-and-type-checking"
   },"10": {
