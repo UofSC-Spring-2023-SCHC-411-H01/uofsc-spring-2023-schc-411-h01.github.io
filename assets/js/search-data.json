@@ -47,492 +47,510 @@
     "url": "https://411.s23.matthewrobertballard.com/homework/04/",
     "relUrl": "/homework/04/"
   },"8": {
-    "doc": "Homework 5",
-    "title": "Homework -",
-    "content": "Due 2023-02-21. Complete and submit homework at our GitHub classroom. ",
-    "url": "https://411.s23.matthewrobertballard.com/homework/05/#homework--",
-    "relUrl": "/homework/05/#homework--"
-  },"9": {
-    "doc": "Homework 5",
-    "title": "Homework 5",
-    "content": " ",
-    "url": "https://411.s23.matthewrobertballard.com/homework/05/",
-    "relUrl": "/homework/05/"
-  },"10": {
     "doc": "This Website",
     "title": "About this website",
     "content": "This website is hosted on GitHub and relies on Jekyll to generate the content. It uses the Just the Class theme which built off the Just the Docs theme. At material appearing here is copyright © 2021 Matthew Ballard and is distributed with an MIT license. ",
     "url": "https://411.s23.matthewrobertballard.com/about_this_webpage/#about-this-website",
     "relUrl": "/about_this_webpage/#about-this-website"
-  },"11": {
+  },"9": {
     "doc": "This Website",
     "title": "This Website",
     "content": " ",
     "url": "https://411.s23.matthewrobertballard.com/about_this_webpage/",
     "relUrl": "/about_this_webpage/"
-  },"12": {
+  },"10": {
     "doc": "Announcements",
     "title": "Announcements",
     "content": "Announcements are stored in the _announcements directory and rendered according to the layout file, _layouts/announcement.html. ",
     "url": "https://411.s23.matthewrobertballard.com/announcements/",
     "relUrl": "/announcements/"
-  },"13": {
+  },"11": {
     "doc": "Announcements",
     "title": "Week 1 Announcement",
     "content": "Aug 19 &middot; 0 min read Welcome to Formalization and mathematics! . To be prepared for the first class, make sure you . | read the syllabus | reach out with any questions. | . ",
     "url": "https://411.s23.matthewrobertballard.com/announcements/",
     "relUrl": "/announcements/"
-  },"14": {
+  },"12": {
     "doc": "Calendar",
     "title": "Calendar",
     "content": " ",
     "url": "https://411.s23.matthewrobertballard.com/calendar/",
     "relUrl": "/calendar/"
-  },"15": {
-    "doc": "Calendar",
-    "title": "Proofs and tactics",
-    "content": "Jan 24 Theorems and proofs Sections 2.3-3.1 HW 1 due Jan 26 First tactics and some logic Sections 3.2-3.3 Quiz 2 Jan 31 Quantifiers in Lean Sections 3.3 HW 2 due Feb 2 More quantifiers and equality in Lean Sections 3.4-3.5 Quiz 3 Feb 7 Induction in Lean Section 3.6 HW 3 due Feb 9 More tactics Sections 4.1-4.2 Quiz 4 Feb 14 Calc tactic &amp; proof terms Sections 4.3-4.4 HW 4 due ",
-    "url": "https://411.s23.matthewrobertballard.com/calendar/#proofs-and-tactics",
-    "relUrl": "/calendar/#proofs-and-tactics"
-  },"16": {
+  },"13": {
     "doc": "Calendar",
     "title": "Past topics",
     "content": ". ",
     "url": "https://411.s23.matthewrobertballard.com/calendar/#past-topics",
     "relUrl": "/calendar/#past-topics"
+  },"14": {
+    "doc": "Calendar",
+    "title": "Final project work",
+    "content": "Apr 18 Day 1 Apr 20 Day 2 ",
+    "url": "https://411.s23.matthewrobertballard.com/calendar/#final-project-work",
+    "relUrl": "/calendar/#final-project-work"
+  },"15": {
+    "doc": "Calendar",
+    "title": "Logical foundations of Lean",
+    "content": "Apr 6 Type universes and the oddball Prop Sections 12.1-12.3 Apr 11 Subtypes Section 12.4 Apr 13 Quotient types Section 12.5 ",
+    "url": "https://411.s23.matthewrobertballard.com/calendar/#logical-foundations-of-lean",
+    "relUrl": "/calendar/#logical-foundations-of-lean"
+  },"16": {
+    "doc": "Calendar",
+    "title": "Verification, Specification, and Inductive Predicates",
+    "content": "Mar 14 An inductive predicate for sorted lists Chapter 6 Mar 16 Insert sort in Lean Mar 21 Prove that our InserSort sorts Mar 23 Refactor from Bool to Decidable Prop Mar 28 Compiling and running Lean code ",
+    "url": "https://411.s23.matthewrobertballard.com/calendar/#verification-specification-and-inductive-predicates",
+    "relUrl": "/calendar/#verification-specification-and-inductive-predicates"
   },"17": {
+    "doc": "Calendar",
+    "title": "Interlude",
+    "content": "Mar 2 Advent of Code 2022 Day 1 ",
+    "url": "https://411.s23.matthewrobertballard.com/calendar/#interlude",
+    "relUrl": "/calendar/#interlude"
+  },"18": {
+    "doc": "Calendar",
+    "title": "Programming constructs in Lean",
+    "content": "Feb 16 Structures Section 5.5 Quiz 5 Feb 21 More on structures Feb 23 Classes and instances Section 5.6 Quiz 6 Feb 28 Categories via classes Mar 30 Monads Chapter 7 Apr 4 Monads II: the re-monading ",
+    "url": "https://411.s23.matthewrobertballard.com/calendar/#programming-constructs-in-lean",
+    "relUrl": "/calendar/#programming-constructs-in-lean"
+  },"19": {
+    "doc": "Calendar",
+    "title": "Proofs and tactics",
+    "content": "Jan 24 Theorems and proofs Sections 2.3-3.1 HW 1 due Jan 26 First tactics and some logic Sections 3.2-3.3 Quiz 2 Jan 31 Quantifiers in Lean Sections 3.3 HW 2 due Feb 2 More quantifiers and equality in Lean Sections 3.4-3.5 Quiz 3 Feb 7 Induction in Lean Section 3.6 HW 3 due Feb 9 More tactics Sections 4.1-4.2 Quiz 4 Feb 14 Calc tactic &amp; proof terms Sections 4.3-4.4 HW 4 due ",
+    "url": "https://411.s23.matthewrobertballard.com/calendar/#proofs-and-tactics",
+    "relUrl": "/calendar/#proofs-and-tactics"
+  },"20": {
     "doc": "Calendar",
     "title": "Terms, types, and type-checking",
     "content": "Jan 12 Terms and types Sections 1.1-1.2 Jan 17 Type checking and type inhabitation Sections 1.3-1.4 Jan 19 Intro to inductive types Sections 2.1-2.2 Quiz 1 ",
     "url": "https://411.s23.matthewrobertballard.com/calendar/#terms-types-and-type-checking",
     "relUrl": "/calendar/#terms-types-and-type-checking"
-  },"18": {
+  },"21": {
     "doc": "Calendar",
     "title": "Introduction and setup",
     "content": "Jan 10 Orientation ",
     "url": "https://411.s23.matthewrobertballard.com/calendar/#introduction-and-setup",
     "relUrl": "/calendar/#introduction-and-setup"
-  },"19": {
-    "doc": "Homework",
-    "title": "Homework",
-    "content": ". | Homework 5. Due Date: February 21 . | Homework 4. Due Date: February 14 . | Homework 3. Due Date: February 7 . | Homework 2. Due Date: January 31 . | Homework 1. Due Date: January 24 . | . ",
-    "url": "https://411.s23.matthewrobertballard.com/homework/",
-    "relUrl": "/homework/"
-  },"20": {
+  },"22": {
     "doc": "Proofs and programs",
     "title": "HNRS:  Formalization and mathematics",
     "content": "Proofs and programs . ",
     "url": "https://411.s23.matthewrobertballard.com/#hnrs--formalization-and-mathematics",
     "relUrl": "/#hnrs--formalization-and-mathematics"
-  },"21": {
+  },"23": {
     "doc": "Proofs and programs",
     "title": "Syllabus",
     "content": "The syllabus can be found at the syllabus tab. ",
     "url": "https://411.s23.matthewrobertballard.com/#syllabus",
     "relUrl": "/#syllabus"
-  },"22": {
+  },"24": {
     "doc": "Proofs and programs",
     "title": "Calendar",
     "content": "At the calendar tab, you will find our topic schedule for each class along with the pre-reading, worksheets for that class, and due dates for assignments. ",
     "url": "https://411.s23.matthewrobertballard.com/#calendar",
     "relUrl": "/#calendar"
-  },"23": {
+  },"25": {
     "doc": "Proofs and programs",
     "title": "Notes",
     "content": "Notes can be found in their GitHub repository. ",
     "url": "https://411.s23.matthewrobertballard.com/#notes",
     "relUrl": "/#notes"
-  },"24": {
+  },"26": {
     "doc": "Proofs and programs",
     "title": "Homework",
     "content": "There are tabs for class homework. Homework is turned in weekly and in groups of 3-4. For more information, see the Syllabus. ",
     "url": "https://411.s23.matthewrobertballard.com/#homework",
     "relUrl": "/#homework"
-  },"25": {
+  },"27": {
     "doc": "Proofs and programs",
     "title": "Me",
     "content": "If you are interested in a bit about who I am and what I do, check out the staff tab or visit my website. ",
     "url": "https://411.s23.matthewrobertballard.com/#me",
     "relUrl": "/#me"
-  },"26": {
+  },"28": {
     "doc": "Proofs and programs",
     "title": "Proofs and programs",
     "content": " ",
     "url": "https://411.s23.matthewrobertballard.com/",
     "relUrl": "/"
-  },"27": {
+  },"29": {
+    "doc": "Homework",
+    "title": "Homework",
+    "content": ". | Homework 4. Due Date: February 14 . | Homework 3. Due Date: February 7 . | Homework 2. Due Date: January 31 . | Homework 1. Due Date: January 24 . | . ",
+    "url": "https://411.s23.matthewrobertballard.com/homework/",
+    "relUrl": "/homework/"
+  },"30": {
     "doc": "Me",
     "title": "Staff",
     "content": " ",
     "url": "https://411.s23.matthewrobertballard.com/staff/#staff",
     "relUrl": "/staff/#staff"
-  },"28": {
+  },"31": {
     "doc": "Me",
     "title": "Instructor",
     "content": "Schedule an appointment . I am a Professor in the Department of Mathematics at the University of South Carolina. I have been teaching mathematics for almost two decades and have guided nearly 1000 students from all levels through math courses. A mindset focused on growth is essential for learning mathematics. Each day is a small step forward. When we turn around at the end of the course, only then, do we see how far we have truly traveled. For more of my pedagogical philosophy and experience, take a look at the teaching page. As an extension of teaching, I take pride in mentoring researchers at any stage. In my research, I study algebraic geometry and am particularly interested in questions arising from Homological Mirror Symmetry. Much of my current work focuses on derived categories and their relation to more classical questions. My research has been partially supported by the Simons Foundation and the National Science Foundation. It has also benefited from a membership at the Institute for Advanced Study, funding from UofSC, and the Southeastern Conference. For more information about me, see my CV. For a research summary and a list of my papers, take a look at my research page. ",
     "url": "https://411.s23.matthewrobertballard.com/staff/#instructor",
     "relUrl": "/staff/#instructor"
-  },"29": {
+  },"32": {
     "doc": "Me",
     "title": "Me",
     "content": " ",
     "url": "https://411.s23.matthewrobertballard.com/staff/",
     "relUrl": "/staff/"
-  },"30": {
+  },"33": {
     "doc": "Syllabus",
     "title": "Syllabus",
     "content": ". | Course Information . | Course Name and Number | Term | Meeting Time and Location | Instructor Information | Office Hours | Academic Bulletin Description | Full Course Description | Prerequisites | Learning Outcomes | Course Materials | . | Course Requirements . | Course Format | Course Communication | Technology | Minimal Technical Skills Needed | Technical Support | . | Course Assignments and Grading . | Homework | Quizzes | Project | Evaluation and Grading Scale . | Assignment Weights | Grading Scale | . | Assignment Submission | Revisions | . | Academic Success . | Accessibility | Student Success Center | Writing Center | University Library Resources | Teams and Technology | Counseling Services | . | Course Policies and Procedures . | Attendance Policy | Academic Integrity | Plagiarism | Group Work | Class Conduct | Late Work/Make-up Policy | Incomplete Grades | Diversity and Inclusion | Title IX and Gendered Identity | Expectations of the Instructor | Copyright/Fair Use Statement | . | Tentative Schedule . | Week 1 | Week 2 | Week 3 | Week 4 | Week 5 | Week 6 | Week 7 | Week 8 | Week 9 | Week 10 | Week 11 | Week 12 | Week 13 | Week 14 | Week 15 | . | . ",
     "url": "https://411.s23.matthewrobertballard.com/syllabus/",
     "relUrl": "/syllabus/"
-  },"31": {
+  },"34": {
     "doc": "Syllabus",
     "title": "Course Information",
     "content": " ",
     "url": "https://411.s23.matthewrobertballard.com/syllabus/#course-information",
     "relUrl": "/syllabus/#course-information"
-  },"32": {
+  },"35": {
     "doc": "Syllabus",
     "title": "Course Name and Number",
     "content": "HNRS: Formalization and mathematics – SCHC 411 . ",
     "url": "https://411.s23.matthewrobertballard.com/syllabus/#course-name-and-number",
     "relUrl": "/syllabus/#course-name-and-number"
-  },"33": {
+  },"36": {
     "doc": "Syllabus",
     "title": "Term",
     "content": "Spring . ",
     "url": "https://411.s23.matthewrobertballard.com/syllabus/#term",
     "relUrl": "/syllabus/#term"
-  },"34": {
+  },"37": {
     "doc": "Syllabus",
     "title": "Meeting Time and Location",
     "content": "Tuesdays and Thursdays 10:05-11:20 am in Honors B111 . ",
     "url": "https://411.s23.matthewrobertballard.com/syllabus/#meeting-time-and-location",
     "relUrl": "/syllabus/#meeting-time-and-location"
-  },"35": {
+  },"38": {
     "doc": "Syllabus",
     "title": "Instructor Information",
     "content": ". | Instructor Name and Preferred Title: Prof. Matthew (Matt) Ballard | Preferred pronouns: He/Him/His | Office : LC 341 | E-mail: ballard@math.sc.edu | . ",
     "url": "https://411.s23.matthewrobertballard.com/syllabus/#instructor-information",
     "relUrl": "/syllabus/#instructor-information"
-  },"36": {
+  },"39": {
     "doc": "Syllabus",
     "title": "Office Hours",
     "content": "Thursdays 11:30-2:30 . ",
     "url": "https://411.s23.matthewrobertballard.com/syllabus/#office-hours",
     "relUrl": "/syllabus/#office-hours"
-  },"37": {
+  },"40": {
     "doc": "Syllabus",
     "title": "Academic Bulletin Description",
     "content": "The following course is a proseminar, with specific topics to be selected as need and interests dictate. Generally limited to 18 students, it is either an extensive study of a broad area or an intensive examination of a specific problem. ",
     "url": "https://411.s23.matthewrobertballard.com/syllabus/#academic-bulletin-description",
     "relUrl": "/syllabus/#academic-bulletin-description"
-  },"38": {
+  },"41": {
     "doc": "Syllabus",
     "title": "Full Course Description",
     "content": "Proof assistants are tools that may seem to live a double life. Does my sorting algorithm actually sort? They can help assure that. Did I mess up my proof of Lagrange’s Theorem? They can help you find the error. In this course, we will acquaint ourselves with Lean, a proof assistant developed primarily at Microsoft Research.  . We will prove theorems in Lean and verify small functional programs. In the process, we will learn about dependent types and the Curry-Howard isomorphism, which elegantly resolves the conflicts of our double life. Skills and knowledge from this course are transferable to other popular proof assistants like Coq and Agda.  . Students having completed Math 300 or Math 374 will have an easier time getting up to speed as will students with some experience with a functional programming language but don’t let this discourage you. Math and/or CS majors at any level should find value in this course.  . ",
     "url": "https://411.s23.matthewrobertballard.com/syllabus/#full-course-description",
     "relUrl": "/syllabus/#full-course-description"
-  },"39": {
+  },"42": {
     "doc": "Syllabus",
     "title": "Prerequisites",
     "content": "None, though students would benefit from taking Math 300 or Math 374. ",
     "url": "https://411.s23.matthewrobertballard.com/syllabus/#prerequisites",
     "relUrl": "/syllabus/#prerequisites"
-  },"40": {
+  },"43": {
     "doc": "Syllabus",
     "title": "Learning Outcomes",
     "content": "After successful completion of this course, you will be able to: . | Use the Lean Theorem Prover to prove properties about basic programs | Use the Lean Theorem Prover to prove basic mathematical results | Describe the type theory underlying Lean | Recognize the duality between writing a program and proving a theorem | . ",
     "url": "https://411.s23.matthewrobertballard.com/syllabus/#learning-outcomes",
     "relUrl": "/syllabus/#learning-outcomes"
-  },"41": {
+  },"44": {
     "doc": "Syllabus",
     "title": "Course Materials",
     "content": "The main resources for materials are the course website and the Microsoft Team for the course. The textbook for this course is: Anne Baanen, Alexander Bentkamp, Jasmin Blanchette, Johannes Hölzl, Jannis Limperg. The Hitchhiker’s Guide to Logical Verification. 2023 Edition.. All course materials comply with copyright/fair use policies. ",
     "url": "https://411.s23.matthewrobertballard.com/syllabus/#course-materials",
     "relUrl": "/syllabus/#course-materials"
-  },"42": {
+  },"45": {
     "doc": "Syllabus",
     "title": "Course Requirements",
     "content": " ",
     "url": "https://411.s23.matthewrobertballard.com/syllabus/#course-requirements",
     "relUrl": "/syllabus/#course-requirements"
-  },"43": {
+  },"46": {
     "doc": "Syllabus",
     "title": "Course Format",
     "content": "To wholly and successfully engage with the course, you will need to be need to attend class, attempt lots of problems, and engage both with me and your fellow classmates. All course materials are will be made available online so regular Internet access is essential for successful completion of the course. It is expected that much of this material will be unfamiliar to you. (If not, more power to you.) The course is structured to guide every student to mastery in terms of conceptual understanding and computational fidelity by the end of the semester. Each week will end with a short quiz to diagnose any problems. At the end of the class, a project will be due in place of a final exam. ",
     "url": "https://411.s23.matthewrobertballard.com/syllabus/#course-format",
     "relUrl": "/syllabus/#course-format"
-  },"44": {
+  },"47": {
     "doc": "Syllabus",
     "title": "Course Communication",
     "content": "I will be communicating with you regarding grades and assignments. If you need to get in touch with me, the best method is via Microsoft Team chat or email. Generally, I will reply within 24 hours and will provide feedback on assignments within one week. You may also post questions pertaining to the course in the Questions channel in the course team. These questions will be answered within 24 hours. I encourage all students to take a stab at answering any question. If you are having trouble with this course or its material, you should contact me via Microsoft Team chat or email to discuss the issues. Announcements will be posted to this course whenever necessary. If there is any other information I think is important, I will send it to your preferred university email address. It is your responsibility to ensure that your email account works properly in order to receive email. If you are unsure of your preferred email, check your account at myaccount.sc.edu. For more information on setting your preferred university email, please see the Knowledge Base Article How To Change Your Primary University Email Address. ",
     "url": "https://411.s23.matthewrobertballard.com/syllabus/#course-communication",
     "relUrl": "/syllabus/#course-communication"
-  },"45": {
+  },"48": {
     "doc": "Syllabus",
     "title": "Technology",
     "content": "To participate in learning activities and complete assignments, you will need: . | Access to a working computer that has a current operating system with updates installed with a modern web browser installed; . | Reliable Internet access and a USC email account; . | If you plan to submit handwritten assignments, a scanning device such as a smartphone with the Microsoft Office Lens app. | The main hub for this course is the Microsoft Teams team run through UofSC’s Microsoft Teams account. To access the team for the first time on your desktop/laptop, you can use the join link including in your welcome email. | This course focuses on using the Lean reason about programs and mathematics. As such, you are expected to have regular access to a working installation of Lean. | . ",
     "url": "https://411.s23.matthewrobertballard.com/syllabus/#technology",
     "relUrl": "/syllabus/#technology"
-  },"46": {
+  },"49": {
     "doc": "Syllabus",
     "title": "Minimal Technical Skills Needed",
     "content": "Minimal technical skills are needed in this course. All work in this course must be completed and submitted online. Therefore, you must have consistent and reliable access to a computer and the Internet. The minimal technical skills you have include the ability to: . | Organize and save electronic files; . | Check and use the Microsoft Teams site daily; . | Download and upload documents; . | Locate and enter information with a browser. | . ",
     "url": "https://411.s23.matthewrobertballard.com/syllabus/#minimal-technical-skills-needed",
     "relUrl": "/syllabus/#minimal-technical-skills-needed"
-  },"47": {
+  },"50": {
     "doc": "Syllabus",
     "title": "Technical Support",
     "content": "If you have problems with your computer, technology, IT-related questions, support, including Microsoft Teams, please contact the Division of Information Technology (DoIT) Service Desk at (803) 777-1800 or submit an online request through the Self-Service Portal or visit the Carolina Tech Zone. The Service Desk is open Monday – Friday from 8:00 AM – 6:00 PM (Eastern Daylight Time). The Thomas Cooper Library at USC has computers for you to use in case you encounter computer issues/problems. ",
     "url": "https://411.s23.matthewrobertballard.com/syllabus/#technical-support",
     "relUrl": "/syllabus/#technical-support"
-  },"48": {
+  },"51": {
     "doc": "Syllabus",
     "title": "Course Assignments and Grading",
     "content": " ",
     "url": "https://411.s23.matthewrobertballard.com/syllabus/#course-assignments-and-grading",
     "relUrl": "/syllabus/#course-assignments-and-grading"
-  },"49": {
+  },"52": {
     "doc": "Syllabus",
     "title": "Homework",
     "content": "Homework will need to be completed in groups of 3-4 that will be randomly assigned each week. The assignments will be available in and must be returned through Microsoft Teams. All homework assignments are due by 11:59 pm (Eastern Time) on the day indicated on the course schedule. Homework will be graded for correctness. You will be allowed up to two revisions on each homework assignment. ",
     "url": "https://411.s23.matthewrobertballard.com/syllabus/#homework",
     "relUrl": "/syllabus/#homework"
-  },"50": {
+  },"53": {
     "doc": "Syllabus",
     "title": "Quizzes",
     "content": "Each week will end with a short quiz. The goal of the quiz is to diagnose any gaps in the understanding and make sure we all stay on the same page. Quizzes are graded for correctness. You will be allowed up to two revisions on each quiz. ",
     "url": "https://411.s23.matthewrobertballard.com/syllabus/#quizzes",
     "relUrl": "/syllabus/#quizzes"
-  },"51": {
+  },"54": {
     "doc": "Syllabus",
     "title": "Project",
     "content": "A list of project topics will be released on March 1. These can be done in groups of 1-4 of your own choosing. Projects are due by April 27 at 9:00 am (EST) in lieu of a final exam. ",
     "url": "https://411.s23.matthewrobertballard.com/syllabus/#project",
     "relUrl": "/syllabus/#project"
-  },"52": {
+  },"55": {
     "doc": "Syllabus",
     "title": "Evaluation and Grading Scale",
     "content": "All grades will be posted on Teams. You are strongly encouraged to check you scores in Teams regularly. A final letter grade will be assigned based on the weighting below. Assignment Weights . | Component | Percent of total | . | Homework | 33% | . | Quizzes | 33% | . | Project | 33% | . Grading Scale . | Final total intervals | Letter Grade | . | [90,100] | A | . | [85,90) | B+ | . | [80,85) | B | . | [75,80) | C+ | . | [70,75) | C | . | [65,70) | D+ | . | [60,65) | D | . | [0,60) | F | . ",
     "url": "https://411.s23.matthewrobertballard.com/syllabus/#evaluation-and-grading-scale",
     "relUrl": "/syllabus/#evaluation-and-grading-scale"
-  },"53": {
+  },"56": {
     "doc": "Syllabus",
     "title": "Assignment Submission",
     "content": "Assigments will be distributed and must be submitted via our GitHub classroom. The majority of the coursework will be typed. For the free response, I encourage you to typeset your solutions using LaTeX but you may upload a scanned image. If you choose to upload a scan, then . | the handwriting must be clear and legible – otherwise you will receive no credit . | Only PDF formats are allowed. No HEIC/JPEG/PNG or other extensions are allowed. | . ",
     "url": "https://411.s23.matthewrobertballard.com/syllabus/#assignment-submission",
     "relUrl": "/syllabus/#assignment-submission"
-  },"54": {
+  },"57": {
     "doc": "Syllabus",
     "title": "Revisions",
     "content": "All homework turned in on-time is eligible for revision at full credit. All quizzes taken on-time are eligible for revision at full credit. Each assignment can undergo at most two revisions. Revisions must be resubmitted within one week of receiving a marked assignment or revision. ",
     "url": "https://411.s23.matthewrobertballard.com/syllabus/#revisions",
     "relUrl": "/syllabus/#revisions"
-  },"55": {
+  },"58": {
     "doc": "Syllabus",
     "title": "Academic Success",
     "content": " ",
     "url": "https://411.s23.matthewrobertballard.com/syllabus/#academic-success",
     "relUrl": "/syllabus/#academic-success"
-  },"56": {
+  },"59": {
     "doc": "Syllabus",
     "title": "Accessibility",
     "content": "The Student Disability Resource Center (SDRC) empowers students to manage challenges and limitations imposed by disabilities. Students with disabilities are encouraged to contact me to discuss the logistics of any accommodations needed to fulfill course requirements (within the first week of the semester). In order to receive reasonable accommodations from me, you must be registered with the Student Disability Resource Center (1705 College Street Close-Hipp, Suite 102 Columbia, SC 29208, 803-777-6142). Any student with a documented disability should contact the SDRC to make arrangements for appropriate accommodations. ",
     "url": "https://411.s23.matthewrobertballard.com/syllabus/#accessibility",
     "relUrl": "/syllabus/#accessibility"
-  },"57": {
+  },"60": {
     "doc": "Syllabus",
     "title": "Student Success Center",
     "content": "In partnership with USC faculty, the Student Success Center (SSC) offers a number of programs to assist you in better understanding your course material and to aid you on your path to success. SSC programs are facilitated by professional staff, graduate students, and trained undergraduate peer leaders who have previously excelled in their courses. Resources available to you in this and other courses may include: . Peer Tutoring: You can make a one-on-one appointment with a Peer Tutor. Drop-in Tutoring and Online Tutoring may also be available for this course. Visit their website for a full schedule of times, locations, and courses. Peer Writing: Improve your college-level writing skills by bringing writing assignments from any of your classes to a Peer Writing Tutor. Similar to Tutoring, you can visit the website to make an appointment, and to view the full schedule of available drop-in hours and locations. Success Consultations: In Success Consultations, SSC staff assist you in developing study skills, setting goals, and connecting to a variety of campus resources. Throughout the semester, I may communicate with the SSC via Success Connect, an online referral system, regarding your progress in the course. If contacted by the SSC, please schedule a Success Consultation. Success Connect referrals are not punitive and any information shared by me is confidential and subject to FERPA regulations. SSC services are offered to all USC undergraduates at no additional cost. You are invited to call the Student Success Hotline at (803) 777-1000, visit SSC website, or stop by the SSC in the Thomas Cooper Library on the Mezzanine Level to check schedules and make appointments. ",
     "url": "https://411.s23.matthewrobertballard.com/syllabus/#student-success-center",
     "relUrl": "/syllabus/#student-success-center"
-  },"58": {
+  },"61": {
     "doc": "Syllabus",
     "title": "Writing Center",
     "content": "This course has many writing assignments. The University Writing Center is an important resource you should use! It’s open to help any USC student needing assistance with a writing project at any stage of development. The main Writing Center is in Byrnes 703. ",
     "url": "https://411.s23.matthewrobertballard.com/syllabus/#writing-center",
     "relUrl": "/syllabus/#writing-center"
-  },"59": {
+  },"62": {
     "doc": "Syllabus",
     "title": "University Library Resources",
     "content": "University Libraries has access to books, articles, subject specific resources, citation help, and more. If you are not sure where to start, please Ask a Librarian! Assistance is available at sc.edu/libraries/ask.  . Remember that if you use anything that is not your own writing or media (quotes from books, articles, interviews, websites, movies – everything) you must cite the source in MLA (or other appropriate and approved) format. ",
     "url": "https://411.s23.matthewrobertballard.com/syllabus/#university-library-resources",
     "relUrl": "/syllabus/#university-library-resources"
-  },"60": {
+  },"63": {
     "doc": "Syllabus",
     "title": "Teams and Technology",
     "content": "Teams and Technology. As a student in this course, you have access to support from the Division of Information Technology (DoIT) for Teams and computer issues. The service desk can be reached at 803-777-1800. ",
     "url": "https://411.s23.matthewrobertballard.com/syllabus/#teams-and-technology",
     "relUrl": "/syllabus/#teams-and-technology"
-  },"61": {
+  },"64": {
     "doc": "Syllabus",
     "title": "Counseling Services",
     "content": "The University offers counseling and crisis services as well as outreach services and self-help. ",
     "url": "https://411.s23.matthewrobertballard.com/syllabus/#counseling-services",
     "relUrl": "/syllabus/#counseling-services"
-  },"62": {
+  },"65": {
     "doc": "Syllabus",
     "title": "Course Policies and Procedures",
     "content": " ",
     "url": "https://411.s23.matthewrobertballard.com/syllabus/#course-policies-and-procedures",
     "relUrl": "/syllabus/#course-policies-and-procedures"
-  },"63": {
+  },"66": {
     "doc": "Syllabus",
     "title": "Attendance Policy",
     "content": "You are expected to participate actively in each course. If you anticipate an excused absence, you need to contact me in advance. You should submit a request in writing (email is acceptable) stating the dates of the anticipated absence, explaining the reason for absence, providing supporting documentation as required above, and including any request for make-up work. You should submit this request no later than the end of the second week of regularly scheduled classes in a full fall or spring semester term and within twice the length of the drop/add period for any other term. To qualify for an excused absence, you must submit supporting documentation. If regularly attending class becomes difficult for any reason, please contact me to discuss the issue. In accordance with university policy, a grade penalty of 10% may be imposed if a student has unexcused absensces exceeding 5% of the total number of courses. For this course, that means missing TWO courses without excuse. All absences due to documented illness or quarantine will be excused, and no grade penalty will be assessed for missing classes for this reason. ",
     "url": "https://411.s23.matthewrobertballard.com/syllabus/#attendance-policy",
     "relUrl": "/syllabus/#attendance-policy"
-  },"64": {
+  },"67": {
     "doc": "Syllabus",
     "title": "Academic Integrity",
     "content": "You are expected to practice the highest possible standards of academic integrity. Any deviation from this expectation will result in a minimum academic penalty of your failing the assignment, and will result in additional disciplinary measures. This includes improper citation of sources, using another student’s work, and any other form of academic misrepresentation. The first tenet of the Carolinian Creed is, “I will practice personal and academic integrity.” . Below are some websites for you to visit to learn more about University policies: . | Carolinian Creed . | Academic Responsibility . | Office of Student Conduct and Academic Integrity . | Information Security Policy and Standards . | . ",
     "url": "https://411.s23.matthewrobertballard.com/syllabus/#academic-integrity",
     "relUrl": "/syllabus/#academic-integrity"
-  },"65": {
+  },"68": {
     "doc": "Syllabus",
     "title": "Plagiarism",
     "content": "Using the words or ideas of another as if they were one’s own is a serious form of academic dishonesty. If another person’s complete sentence, syntax, key words, or the specific or unique ideas and information are used, one must give that person credit through proper citation. You should in particular cite any resources, person, text, or otherwise, you used to assist in preparation of your work. Copying proofs or problem solutions is strictly forbidden. ",
     "url": "https://411.s23.matthewrobertballard.com/syllabus/#plagiarism",
     "relUrl": "/syllabus/#plagiarism"
-  },"66": {
+  },"69": {
     "doc": "Syllabus",
     "title": "Group Work",
     "content": "Group work should be performed in safe manner. Remote work will certainly form a larger component of a career going forward. You are encouraged to take advantage of Microsoft Teams video and chat abilities to aid in collaboration. ",
     "url": "https://411.s23.matthewrobertballard.com/syllabus/#group-work",
     "relUrl": "/syllabus/#group-work"
-  },"67": {
+  },"70": {
     "doc": "Syllabus",
     "title": "Class Conduct",
     "content": "Professionalism will be expected at all times, but most especially with your interactions online and in person. Because the university classroom is a place designed for the free exchange of ideas, we must show respect for one another in all circumstances. We will show respect for one another by exhibiting patience and courtesy in our exchanges. Appropriate language and restraint from verbal attacks upon those whose perspectives differ from your own is a minimum requirement. Courtesy and kindness is the norm for those who participate in the class. Mistakes, in particular during the running phase, are expected and natural. Mistakes are how learning happens. All students should recognize and respect the bravery of a student presenting a proof or solution. If you ever feel uncomfortable beyond the intellectual challenge of the course, please contact me. Teams is a way for you to share your ideas and learning with your colleagues in this class. We do this as colleagues in learning, and the online space is meant to be a safe and respectful environment for us to conduct these discussions. Some general netiquette rules: . | Treat one another with respect. It will be expected that we will not attack one another personally for holding different opinions. | Do not use all CAPITAL LETTERS in emails or discussion board postings. This is considered “shouting” and is seen as impolite or aggressive. | Begin emails with a proper salutation (Examples: Dr. Name; Ms. Name; Hello Professor Name; Good afternoon Mr. Name). Starting an email without a salutation or a simple “Hey” is not appropriate. | When sending an email, please include a detailed subject line. Additionally, make sure you reference the course number (Ex. ENGL 287) in the message and sign the mail with your name. | Use proper grammar, spelling, punctuation, and capitalization. Text messaging language is not acceptable. | Use good taste when communicating. Profanity should be avoided. | Re-Read, think, and edit your message before you click “Send/Submit/Post.” . | Please remember when posting to be respectful and courteous to your colleagues, and limit your communication to topics of this course and the assignments. | . ",
     "url": "https://411.s23.matthewrobertballard.com/syllabus/#class-conduct",
     "relUrl": "/syllabus/#class-conduct"
-  },"68": {
+  },"71": {
     "doc": "Syllabus",
     "title": "Late Work/Make-up Policy",
     "content": "All assignments due by the deadline as posted on the course schedule. Late work is not accepted and not eligible for revision. Please plan accordingly, and complete these assignments in advance of their deadlines to ensure any unanticipated circumstances do not result in a missed assignment. User error does not qualify you for any kind of makeup or retake opportunity. Completing and submitting the assignments by the due date is the sole responsibility of you. If you fail to submit the assignment or test by the due date, then your score for that assignment will be recorded as “zero.” . You will be allowed to access the assignments an unlimited number of times until the due date/time. If you are concerned about missing a deadline, post your assignment the day before the deadline. Be Careful: The clock on your computer may be different than the clock in Teams. If the clock is different by one second, you will be locked out of the assignment. Plan accordingly. ",
     "url": "https://411.s23.matthewrobertballard.com/syllabus/#late-workmake-up-policy",
     "relUrl": "/syllabus/#late-workmake-up-policy"
-  },"69": {
+  },"72": {
     "doc": "Syllabus",
     "title": "Incomplete Grades",
     "content": "The grade of Incomplete will be granted only in accordance with university policy. ",
     "url": "https://411.s23.matthewrobertballard.com/syllabus/#incomplete-grades",
     "relUrl": "/syllabus/#incomplete-grades"
-  },"70": {
+  },"73": {
     "doc": "Syllabus",
     "title": "Diversity and Inclusion",
     "content": "The university is committed to a campus environment that is inclusive, safe, and respectful for all persons, and one that fully embraces the Carolinian Creed: “I will discourage bigotry, while striving to learn from differences in people, ideas and opinions.” Likewise, the Student Code of Conduct stresses, “The University of South Carolina strives to maintain an educational community that fosters the development of students who are ethical, civil and responsible persons.” . To that end, all course activities will be conducted in an atmosphere of friendly participation and interaction among colleagues, recognizing and appreciating the unique experiences, background, and point of view each student brings. You are expected at all times to apply the highest academic standards to this course and to treat others with dignity and respect. ",
     "url": "https://411.s23.matthewrobertballard.com/syllabus/#diversity-and-inclusion",
     "relUrl": "/syllabus/#diversity-and-inclusion"
-  },"71": {
+  },"74": {
     "doc": "Syllabus",
     "title": "Title IX and Gendered Identity",
     "content": "This course affirms equality and respect for all gendered identities and expressions. Please don’t hesitate to correct me regarding your preferred gender pronoun and/or name if different from what is indicated on the official class roster. Likewise, I am committed to nurturing an environment free from discrimination and harassment. Consistent with Title IX policy, please be aware that I as a responsible employee am obligated to report information that you provide to me about a situation involving sexual harassment or assault. ",
     "url": "https://411.s23.matthewrobertballard.com/syllabus/#title-ix-and-gendered-identity",
     "relUrl": "/syllabus/#title-ix-and-gendered-identity"
-  },"72": {
+  },"75": {
     "doc": "Syllabus",
     "title": "Expectations of the Instructor",
     "content": "I am expected to facilitate learning, answer questions appropriately, be fair and objective in grading, provide timely and useful feedback on assignments and treat you as I would like to be treated. ",
     "url": "https://411.s23.matthewrobertballard.com/syllabus/#expectations-of-the-instructor",
     "relUrl": "/syllabus/#expectations-of-the-instructor"
-  },"73": {
+  },"76": {
     "doc": "Syllabus",
     "title": "Copyright/Fair Use Statement",
     "content": "I will cite and/or reference any materials that I use in this course that I do not create. Anything that appears on this website is copyright © 2023 Matthew Ballard and is distributed by an MIT license. Course materials that do not appear on this website are copyright © 2023 Matthew Ballard and all rights are reserved. In particular, you may not distribute any of these course materials in any fashion without expressed written permission. ",
     "url": "https://411.s23.matthewrobertballard.com/syllabus/#copyrightfair-use-statement",
     "relUrl": "/syllabus/#copyrightfair-use-statement"
-  },"74": {
+  },"77": {
     "doc": "Syllabus",
     "title": "Tentative Schedule",
     "content": "This is the (ambitious) plan for the semester. But it is only a plan. The successful progression of each student is the most important guide to through the material. As such, you should expect revisions as we go. ",
     "url": "https://411.s23.matthewrobertballard.com/syllabus/#tentative-schedule",
     "relUrl": "/syllabus/#tentative-schedule"
-  },"75": {
+  },"78": {
     "doc": "Syllabus",
     "title": "Week 1",
     "content": ". | 1/10 welcome and orientation | 1/12 terms and types | . ",
     "url": "https://411.s23.matthewrobertballard.com/syllabus/#week-1",
     "relUrl": "/syllabus/#week-1"
-  },"76": {
+  },"79": {
     "doc": "Syllabus",
     "title": "Week 2",
     "content": ". | 1/17 rules for type checking | 1/19 inhabited types | . ",
     "url": "https://411.s23.matthewrobertballard.com/syllabus/#week-2",
     "relUrl": "/syllabus/#week-2"
-  },"77": {
+  },"80": {
     "doc": "Syllabus",
     "title": "Week 3",
     "content": ". | 1/24 a glimpse of inductive types | 1/26 functions from inductive types | . ",
     "url": "https://411.s23.matthewrobertballard.com/syllabus/#week-3",
     "relUrl": "/syllabus/#week-3"
-  },"78": {
+  },"81": {
     "doc": "Syllabus",
     "title": "Week 4",
     "content": ". | 1/31 theorems and their proofs | 2/2 basic tactics | . ",
     "url": "https://411.s23.matthewrobertballard.com/syllabus/#week-4",
     "relUrl": "/syllabus/#week-4"
-  },"79": {
+  },"82": {
     "doc": "Syllabus",
     "title": "Week 5",
     "content": ". | 2/7 predicate logic in Lean | 2/9 predicate logic in Lean 2 | . ",
     "url": "https://411.s23.matthewrobertballard.com/syllabus/#week-5",
     "relUrl": "/syllabus/#week-5"
-  },"80": {
+  },"83": {
     "doc": "Syllabus",
     "title": "Week 6",
     "content": ". | 2/14 equality and rewriting terms | 2/16 induction | . ",
     "url": "https://411.s23.matthewrobertballard.com/syllabus/#week-6",
     "relUrl": "/syllabus/#week-6"
-  },"81": {
+  },"84": {
     "doc": "Syllabus",
     "title": "Week 7",
     "content": ". | 2/21 structured proofs | 2/23 tactics to help with forward reasoning | . ",
     "url": "https://411.s23.matthewrobertballard.com/syllabus/#week-7",
     "relUrl": "/syllabus/#week-7"
-  },"82": {
+  },"85": {
     "doc": "Syllabus",
     "title": "Week 8",
     "content": ". | 2/28 calculations in proofs | 3/2 more examples of proofs in Lean | . ",
     "url": "https://411.s23.matthewrobertballard.com/syllabus/#week-8",
     "relUrl": "/syllabus/#week-8"
-  },"83": {
+  },"86": {
     "doc": "Syllabus",
     "title": "Week 9",
     "content": ". | 3/14 dependent types | 3/16 proofs and programs | . ",
     "url": "https://411.s23.matthewrobertballard.com/syllabus/#week-9",
     "relUrl": "/syllabus/#week-9"
-  },"84": {
+  },"87": {
     "doc": "Syllabus",
     "title": "Week 10",
     "content": ". | 3/21 matching on inductive types | 3/23 structural induction | . ",
     "url": "https://411.s23.matthewrobertballard.com/syllabus/#week-10",
     "relUrl": "/syllabus/#week-10"
-  },"85": {
+  },"88": {
     "doc": "Syllabus",
     "title": "Week 11",
     "content": ". | 3/28 pattern matching | 3/30 structures and type classes | . ",
     "url": "https://411.s23.matthewrobertballard.com/syllabus/#week-11",
     "relUrl": "/syllabus/#week-11"
-  },"86": {
+  },"89": {
     "doc": "Syllabus",
     "title": "Week 12",
     "content": ". | 4/4 more examples | 4/6 inductive predicates | . ",
     "url": "https://411.s23.matthewrobertballard.com/syllabus/#week-12",
     "relUrl": "/syllabus/#week-12"
-  },"87": {
+  },"90": {
     "doc": "Syllabus",
     "title": "Week 13",
     "content": ". | 4/11 rule induction and elimination | 4/13 more examples | . ",
     "url": "https://411.s23.matthewrobertballard.com/syllabus/#week-13",
     "relUrl": "/syllabus/#week-13"
-  },"88": {
+  },"91": {
     "doc": "Syllabus",
     "title": "Week 14",
     "content": ". | 4/18 monads | 4/20 examples | . ",
     "url": "https://411.s23.matthewrobertballard.com/syllabus/#week-14",
     "relUrl": "/syllabus/#week-14"
-  },"89": {
+  },"92": {
     "doc": "Syllabus",
     "title": "Week 15",
     "content": ". | 4/25 metaprogramming | 4/27 projects due | . ",
